@@ -1,0 +1,1 @@
+pip install python-dotenv langchain faiss-cpu streamlit pypdf2 openai
